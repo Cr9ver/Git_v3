@@ -1,8 +1,3 @@
 This is a smaple test file
 
 Reset 2
-
-
-revert 1
-
-revert 2
