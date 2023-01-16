@@ -1,3 +1,4 @@
 This is a smaple test file
 
 Reset 2
+This is Comparison lecture
