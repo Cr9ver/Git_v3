@@ -1,3 +1,8 @@
+
 Basic work with git
 
-Noothing much to see hehe :)
+Nothing much to see hehe :)
+This is a smaple test file
+
+
+This is Comparison lecture
