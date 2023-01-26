@@ -3,3 +3,4 @@ This is a smaple test file
 
 
 This is Comparison lecture
+This is Stash lecture, Change in file 2
